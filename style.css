@@ -84,6 +84,7 @@ h2 {
     font-size: 14px;
     letter-spacing: 1px;
     background: transparent;
+    text-transform: uppercase;
     color: #fff;
     overflow: hidden;
     box-shadow: 0 0 0 0 transparent;
